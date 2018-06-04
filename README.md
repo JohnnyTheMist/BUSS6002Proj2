@@ -1,2 +1,3 @@
 # BUSS6002Proj2
-test
+
+This is the place that put the project together
